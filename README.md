@@ -16,6 +16,10 @@ The dashboard provides insights into sales trends, profitability, customer behav
 https://app.powerbi.com/groups/me/reports/72bd7d79-f980-4d0d-8d42-2040e2fe065c/d54c057ddb56fbe24017?experience=power-bi
 ```
 
+## Power BI Dashboard Pages
+
+For a better viewing experience with detailed pages, please visit [Pages](pages.md)
+
 ### 🎯 Objectives
 
 - Analyze sales and profit performance over time
