@@ -5,7 +5,7 @@
 This project presents an interactive Power BI dashboard built using the **SuperStore Sales Dataset** to analyze retail business performance.
 The dashboard provides insights into sales trends, profitability, customer behavior, product performance, regional distribution, and shipping analysis to support data-driven decision-making.
 
-![App Screenshot](dashboard.png)
+![App Screenshot](images/page1.png)
 
 ### 🌐 Live Dashboard (Published)
 
