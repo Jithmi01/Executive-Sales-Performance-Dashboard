@@ -10,10 +10,10 @@ The dashboard provides insights into sales trends, profitability, customer behav
 ### 🌐 Live Dashboard (Published)
 
 🔗 Power BI Published Report:
-👉 Add your Power BI Service link here
+👉 
 
 ```bash
-https://app.powerbi.com/groups/me/reports/72bd7d79-f980-4d0d-8d42-2040e2fe065c/d54c057ddb56fbe24017?experience=power-bi
+https://app.powerbi.com/groups/me/reports/72bd7d79-f980-4d0d-8d42-2040e2fe065c/ca7282c4a92bda798670?experience=power-bi
 ```
 
 ## Power BI Dashboard Pages
